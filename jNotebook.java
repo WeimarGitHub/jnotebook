@@ -16,8 +16,8 @@ class gui {
         JMenu m2 = new JMenu("Help");
         mb.add(m1);
         mb.add(m2);
-        JMenuItem m11 = new JMenuItem("Open");
-        JMenuItem m22 = new JMenuItem("Save as");
+        JMenuItem m11 = new JMenuItem("Open (non-functional)");
+        JMenuItem m22 = new JMenuItem("Save as (non functional)");
         m1.add(m11);
         m1.add(m22);
 
